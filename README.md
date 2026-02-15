@@ -1,2 +1,2 @@
 # Helmholtz
-Solution of one-dimensional Helmholtz equation by finite element method and 4th order runge-kutta
+Solution of one-simensional Helmholtz equation by 4th order runge-kutta and finite element method. 
